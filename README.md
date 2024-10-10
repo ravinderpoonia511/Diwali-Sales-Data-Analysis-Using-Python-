@@ -13,6 +13,7 @@ Customer Information: Age, Gender, Marital Status, Occupation, State
 Sales Data: Product Category, Orders, Amount
 
 **Key Insights**
+
 Top Buying Age Group: 26-35 years
 
 Top Gender: Female buyers
