@@ -14,7 +14,11 @@ Sales Data: Product Category, Orders, Amount
 
 **Key Insights**
 Top Buying Age Group: 26-35 years
+
 Top Gender: Female buyers
+
 Top Occupation: IT, Healthcare, and Aviation
+
 Top Product Categories: Food, Clothing, Electronics
+
 Top States: Uttar Pradesh, Maharashtra, Karnataka
